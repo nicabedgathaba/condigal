@@ -4,7 +4,7 @@
 Loops are used to execute a block of code multiple times.
 
 Example of a for loop:
-# Example of a for loop
+Example of a for loop
 fruits = ["apple", "banana", "cherry"]
 for fruit in fruits:
     print(fruit)
@@ -18,7 +18,7 @@ banana
 Cherry
 
 Example of a while loop:
-# Example of a while loop
+### Example of a while loop
 i = 1
 while i <= 5:
     print(i)
@@ -39,17 +39,17 @@ Output:
 In Python, arrays can be implemented using lists. Arrays store multiple values in a single variable.
 
 Example of an Array (List) in Python:
-# Example of an array (list)
+### Example of an array (list)
 numbers = [1, 2, 3, 4, 5]
 
-# Accessing elements
+### Accessing elements
 print(numbers[0])  # Output: 1
 
-# Modifying elements
+### Modifying elements
 numbers[2] = 10  # Changing the 3rd element to 10
 print(numbers)    # Output: [1, 2, 10, 4, 5]
 
-# Iterating over an array
+### Iterating over an array
 for num in numbers:
     print(num)
 
@@ -70,7 +70,7 @@ Output of loop:
 Conditional statements allow you to execute code based on certain conditions.
 Example of an if, elif, and else statement:
 
-# Example of if-elif-else conditional statements
+### Example of if-elif-else conditional statements
 age = 18
 
 if age < 18:
@@ -93,7 +93,7 @@ You just became an adult!
 
 Putting it All Together:
 Loop with Conditional and Array (List):
-# Example combining loop, array, and conditional statements
+### Example combining loop, array, and conditional statements
 numbers = [1, 2, 3, 4, 5]
 
 for num in numbers:
